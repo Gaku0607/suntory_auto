@@ -1,0 +1,13 @@
+package model
+
+//服務名稱
+const (
+	MID_MONTH_INVENTORY_METHOD = "月中庫存表"
+	SOUTH_MANAGE_TABLE_METHOD  = "台南在庫管理表"
+)
+
+//配置文件
+const (
+	MID_MONTH_INVENTORY_BASE = "MID_MONTH_INVENTORY.json"
+	SOUTH_MANAGE_TABLE_BASE  = "SOUTH_MANAGE_TABLE.json"
+)
